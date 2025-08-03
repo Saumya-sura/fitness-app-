@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "976150274309",
+    "project_id": "hello-world-fitness-app",
+    "storage_bucket": "hello-world-fitness-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976150274309:android:c5640091a3250d8d6a176c",
+        "android_client_info": {
+          "package_name": "com.example.fitness_app_hello_world"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1wd0uTuAde668SH6DO_e0BFMJ1DML_lI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

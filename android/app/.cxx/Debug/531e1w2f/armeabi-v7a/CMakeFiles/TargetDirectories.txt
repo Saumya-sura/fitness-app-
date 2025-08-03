@@ -1,0 +1,2 @@
+C:/Users/Saumya/Desktop/Fitness_App_Hello_World/fitness_app_hello_world/android/app/.cxx/Debug/531e1w2f/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Saumya/Desktop/Fitness_App_Hello_World/fitness_app_hello_world/android/app/.cxx/Debug/531e1w2f/armeabi-v7a/CMakeFiles/rebuild_cache.dir
